@@ -91,6 +91,3 @@ The script saves plots into the trajectory `Path` directory:
 
 ---
 
-## License
-
-Add a license file if you plan to share this publicly (e.g., MIT, BSD-3, GPL-3).
